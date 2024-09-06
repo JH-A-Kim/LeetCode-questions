@@ -48,6 +48,8 @@ console.log(gcd(48, 18)); // Output: 6
 
 ---
 
+```
+
 ## Other Algorithms
 
 ### [Algorithm Name]
