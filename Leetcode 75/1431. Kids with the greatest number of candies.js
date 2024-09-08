@@ -5,10 +5,10 @@
  */
 var kidsWithCandies = function(candies, extraCandies) {
     var result=[];
+    var max=Math.max(...candies);
 
     for(i=0; i<candies.length; i++){
         var added=candies[i]+extraCandies;
-        var max=Math.max(...candies);
         if(added>=max){
             result.push(true);
         }
