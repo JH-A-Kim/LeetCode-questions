@@ -73,3 +73,16 @@ console.log(gcd(48, 18)); // Output: 6
 **Lists are not good for**:
 1. A large number of deletions of middle elements 
 2. A large number of searching
+
+
+### What is the Stack?
+
+**The Stack is a Last in First Out Data Structure Maintaining a few key details**:
+
+1. LIFO
+2. Adding can obly be done to the top of the Stack
+3. Deleting can only be done to the top of the stack
+
+**What are some real world examples of a stack?**:
+1. The backspace button on your browser 
+2. Undo button on literally anything
