@@ -86,3 +86,11 @@ console.log(gcd(48, 18)); // Output: 6
 **What are some real world examples of a stack?**:
 1. The backspace button on your browser 
 2. Undo button on literally anything
+3. Function Call Management
+4. Expression Evaluation
+5. Browser History
+
+**Why would I use a stack over an array?**
+1. By restricting ways that the data can be accessed we make it faster for those existing operations
+2. We have push, pop, peek, and size operations that are all O(1) Operations meaning we are always operating at constant time meaning the data structure is incredibly quick
+3. Best when all you need is the behaviour of a stack
