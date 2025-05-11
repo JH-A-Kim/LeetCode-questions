@@ -94,3 +94,12 @@ console.log(gcd(48, 18)); // Output: 6
 1. By restricting ways that the data can be accessed we make it faster for those existing operations
 2. We have push, pop, peek, and size operations that are all O(1) Operations meaning we are always operating at constant time meaning the data structure is incredibly quick
 3. Best when all you need is the behaviour of a stack
+
+
+## Queues: What are they?
+First in first out algorithm FIFO that is fast and can be better than a list in specific scenarios by being restricted 
+
+Items can only be added at the tail and removed from the head 
+
+**What does it behave like?** 
+The Queue behaves similarly to a line of people waiting for their morning coffee, or like a group of people waiting to buy the next switch in front of gamestop, its first come first serve.
