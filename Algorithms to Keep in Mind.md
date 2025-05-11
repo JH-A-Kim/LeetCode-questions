@@ -68,7 +68,7 @@ console.log(gcd(48, 18)); // Output: 6
 
 ## Data Structures Notes
 
-### [What are Lists not good for?]SS
+### What are Lists not good for?
 
 **Lists are not good for**:
 1. A large number of deletions of middle elements 
