@@ -102,10 +102,12 @@ First in first out algorithm FIFO that is fast and can be better than a list in 
 Items can only be added at the tail and removed from the head 
 
 **What does it behave like?** 
+
 The Queue behaves similarly to a line of people waiting for their morning coffee, or like a group of people waiting to buy the next switch in front of gamestop, its first come first serve.
 
 Generally all of its operations (push, pop, peek and size) are O(1)
 
 **But why this over a list?**
+
 Its important to use when we care about ordering
 They need to be used when we need to process items in the order they were added
