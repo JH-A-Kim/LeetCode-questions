@@ -15,9 +15,7 @@ class Solution:
             diff = nums[index] - nums[index-1]
             if diff==1:
                 tempCount+=1
-                print("1")
             elif diff == 0:
-                print("0")
                 pass
             elif diff > 1 and count<tempCount:
                 count = tempCount
