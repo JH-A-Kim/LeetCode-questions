@@ -18,4 +18,16 @@ hello
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
