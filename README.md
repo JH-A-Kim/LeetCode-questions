@@ -30,4 +30,16 @@ hello
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
