@@ -10,20 +10,20 @@ from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         
-        if node is None:
+        if node is None: # basic check for if the node is none
             return None
 
-        seen = {}
+        seen = {} # checks for if we already visited a node
 
-        def dfs(old_node):
-            if old_node in seen:
+        def dfs(old_node): # dfs solution for navigating through the graph
+            if old_node in seen: # if we have already seen the node we just return what we have already seen, acts as a base case
                 return seen[old_node]
-            clone = Node(old_node.val)
+            clone = Node(old_node.val) # creates a clone of the value if we have not seen it and puts it in the seen hash
             seen[old_node] = clone
 
-            for neighbor in old_node.neighbors:
+            for neighbor in old_node.neighbors: # now for the value that we are at we look at the array which represents its neighbors and then we add each recursively sent value to its neighbor array
                 clone.neighbors.append(dfs(neighbor))
-            return clone
+            return clone # we then return the clone that we made of each node 
 
         return dfs(node)
 
