@@ -25,6 +25,7 @@ Leetcode problem
 | ------- |
 | [0011-container-with-most-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0015-3sum) |
+| [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 ## Hash Table
@@ -54,6 +55,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## Graph Theory
