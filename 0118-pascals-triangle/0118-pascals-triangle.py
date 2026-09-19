@@ -9,12 +9,8 @@ class Solution:
             while col < row+1:
                 if col == 0 or col==row:
                     arrayRow.append(1)
-                    print(row)
-                    print(col)
-                    print(arrayRow)
                 else:
                     arrayRow.append(pascalsTriangle[row-1][col]+pascalsTriangle[row-1][col-1])
-                    print(row)
                 col+=1
             pascalsTriangle.append(arrayRow)
             row+=1
