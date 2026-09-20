@@ -34,6 +34,7 @@ Leetcode problem
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Leetcode problem
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -78,4 +80,5 @@ Leetcode problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
