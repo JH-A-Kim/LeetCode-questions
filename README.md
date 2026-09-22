@@ -23,6 +23,7 @@ Leetcode problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
@@ -31,6 +32,7 @@ Leetcode problem
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
