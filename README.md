@@ -30,6 +30,7 @@ Leetcode problem
 | [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
+| [0238-product-of-array-except-self](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -110,4 +111,8 @@ Leetcode problem
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
