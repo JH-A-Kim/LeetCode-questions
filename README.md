@@ -54,12 +54,14 @@ Leetcode problem
 | [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
