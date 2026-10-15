@@ -1,33 +1,23 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        # so what i need to find is the tallest but also has the furthest x axis length to create the greatest area between the 2 points. So i have to calculate the area based on the index of the left most line to the right most line looking like left-right is the length multiplied by the shorter of the 2 lines. So at each point in a initial solution i could take for each value calculate out each area from each starting point. That would result in a o(n^2) solution and as thebn could be 10^5 it would be difficult to really hold up. Now what would work better? we want to be able to take advantage of each property that stipulates some condition to reduced the amount of iterations therefore we could start off by finding the largest values in height and then calculating the distance between. But if i follow with 2 pointers i can start on the right and expand out for each element and keep a running total called largestArea. once the right one ends at the final part we can then take the left pointer and then calculate that as we move to the right. and then we just take max or just whatever is best. Thtat results in O(2n). This unfortunately did not work. What i really need to do is close the pointers closer and closer and as we move the shorter wall inward we have a chance to get a better wall or taller width. Whereas if we move the taller wall we are guarnteed equal or less than in terms of area. So this would be a O(n) solution
-
-        n = len(height)
+    def maxArea(self, heights: List[int]) -> int:
+        # array heights where heights[i] is the height of the ith bar its literally just the height of the bar. We need to find a container size that holds the most amount of water. So not only do i need a large set of heights i need the most optimal length. Atomically this calculation is just the height of the shorter bar multiplied by the distance between the 2 bars. For example in the example height = [1,7,2,5,4,7,3,6] the most optimal is 7 and 6 there is 6 spaces between them so 6 x 6 results in 36. So this problem is 2 pronged finding the optimal heights and optimal distances. So starting with a potential intuition we can take the fact that it has high number of potential inputs as it needing something below O(n^2) time complexity. Therefore it should be something like O(n) or O(nlogn) so what can I infer from this? Maybe if i take a 2 pointer approach I can find the optimal value. But the problem quickly becomes that this is not sorted but if i find every combination that technically gives me the answer but that has high time complexity. Lets say I take the left most number and expand out. and see what would give me a higher value. and then move my right pointer. What if for every value I iterate and then i take a nested loop and iterate once for the right to find the best value. What if instead we took the values from both sides as pointers and calculate the value. We then decrement or increment whichever side has a lower height. the lower height is always the lower bound and it can change the outcome whereas changing the higher bound can never make the value bigger whereas changing the lower bound can make the value bigger or smaller. Real change happens on the lower value.
 
         left = 0
-        right = n-1
-
-        best = 0
-
-        def area(height, left, right):
-            smallWidth = min(height[left], height[right])
-            length = right - left
-
-            return smallWidth * length
+        right = len(heights)-1
+        greatestArea = 0
 
         while left<right:
-            areaOfSection = area(height, left, right)
-
-            if best<areaOfSection:
-                best = areaOfSection
-
-            if height[left]<height[right]:
-                left+=1
-            elif height[left]>height[right]:
-                right-=1
-            else:
-                left+=1
-
+            area = (right - left) * min(heights[left], heights[right])
             
-        return best
+            if area > greatestArea:
+                greatestArea = area
+
+            if heights[left] > heights[right]:
+                right-=1
+            elif heights[left] < heights[right]:
+                left+=1
+            else:
+                right-=1
+        
+        return greatestArea
 
