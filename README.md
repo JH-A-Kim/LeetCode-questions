@@ -30,6 +30,7 @@ Leetcode problem
 | [0042-trapping-rain-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +76,7 @@ Leetcode problem
 | [0005-longest-palindromic-substring](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## Graph Theory
