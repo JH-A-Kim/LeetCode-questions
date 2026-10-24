@@ -49,6 +49,7 @@ Leetcode problem
 | [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Leetcode problem
 | [0042-trapping-rain-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -73,6 +75,7 @@ Leetcode problem
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -151,4 +154,5 @@ Leetcode problem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
