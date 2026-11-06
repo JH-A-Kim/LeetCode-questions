@@ -39,6 +39,7 @@ Leetcode problem
 | [0238-product-of-array-except-self](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0853-car-fleet) |
 ## Hash Table
@@ -151,6 +152,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
