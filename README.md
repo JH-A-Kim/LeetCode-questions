@@ -36,6 +36,7 @@ Leetcode problem
 | [0128-longest-consecutive-sequence](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0239-sliding-window-maximum) |
@@ -155,6 +156,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0875-koko-eating-bananas) |
