@@ -24,6 +24,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -126,6 +127,7 @@ Leetcode problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +158,7 @@ Leetcode problem
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JH-A-Kim/LeetCode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
