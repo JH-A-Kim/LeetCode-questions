@@ -20,3 +20,4 @@ class Solution:
         left.next = left.next.next
 
         return dummy.next
+        # this is O(N) time and O(1) space complexity.
